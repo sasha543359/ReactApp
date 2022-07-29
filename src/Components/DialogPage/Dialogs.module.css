@@ -1,0 +1,9 @@
+.Content {
+  display: flex;
+}
+.firstcolum a {
+  text-decoration: none;
+}
+.secondcolum {
+  padding-left: 100px;
+}

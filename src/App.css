@@ -1,4 +1,5 @@
 .Content {
-    display: flex;
-    background-color: aqua;
+  display: flex;
+  color: white;
+  background-color: #05161e;
 }
